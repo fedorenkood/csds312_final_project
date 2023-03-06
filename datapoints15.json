@@ -1,0 +1,6 @@
+[
+{"dataset": "CIFAR10", "active_learner": "ResNet18LossActiveLearner4", "experiment_num": 0, "al_cycles": 12, "acc": [59.6, 87.65, 88.45, 92.75, 93.55, 93.85, 93.8, 94.55, 93.25, 95.3, 95.15, 93.75], "num_examples": [256, 512, 768, 1024, 1280, 1536, 1792, 2048, 2304, 2560, 2816, 3072]},
+{"dataset": "CIFAR10", "active_learner": "ResNet18LossActiveLearner3", "experiment_num": 0, "al_cycles": 12, "acc": [71.95, 88.75, 89.45, 92.15, 92.2, 92.5, 92.45, 92.95, 93.3, 94.3, 94.0, 94.2], "num_examples": [256, 512, 768, 1024, 1280, 1536, 1792, 2048, 2304, 2560, 2816, 3072]},
+{"dataset": "CIFAR10", "active_learner": "ResNet18LossActiveLearner1", "experiment_num": 0, "al_cycles": 12, "acc": [76.55, 83.0, 85.75, 90.75, 92.1, 92.65, 92.8, 92.55, 93.0, 92.65, 94.4, 94.65], "num_examples": [256, 512, 768, 1024, 1280, 1536, 1792, 2048, 2304, 2560, 2816, 3072]},
+{"dataset": "CIFAR10", "active_learner": "RandomActiveLearner", "experiment_num": 0, "al_cycles": 12, "acc": [85.4, 92.05, 92.65, 94.75, 94.8, 94.9, 94.95, 95.4, 95.6, 95.8, 95.45, 95.8], "num_examples": [256, 512, 768, 1024, 1280, 1536, 1792, 2048, 2304, 2560, 2816, 3072]}
+]
