@@ -1,4 +1,4 @@
-# CSDS 491 Final Project
+# CSDS 312 Final Project
 
 Navigating our repository:
 
